@@ -27,12 +27,15 @@
 .stateText {
   font-family: sans-serif;
   fill: #fff;
+  font-size: 10px;
+  color: black;
   text-anchor: middle;
 }
 
 .stateCircle {
   fill: #89bdd3;
   stroke: #e3e3e3;
+  opacity: .7;
 }
 
 .chart {

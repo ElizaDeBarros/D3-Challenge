@@ -27,10 +27,10 @@
 .stateText {
   font-family: sans-serif;
   fill: #fff;
-  font-size: 10px;
-  color: black;
   text-anchor: middle;
+  font-size: 12px;
 }
+
 
 .stateCircle {
   fill: #89bdd3;
